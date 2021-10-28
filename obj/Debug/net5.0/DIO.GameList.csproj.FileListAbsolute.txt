@@ -1,0 +1,16 @@
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\bin\Debug\net5.0\DIO.GameList.exe
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\bin\Debug\net5.0\DIO.GameList.deps.json
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\bin\Debug\net5.0\DIO.GameList.runtimeconfig.json
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\bin\Debug\net5.0\DIO.GameList.runtimeconfig.dev.json
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\bin\Debug\net5.0\DIO.GameList.dll
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\bin\Debug\net5.0\ref\DIO.GameList.dll
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\bin\Debug\net5.0\DIO.GameList.pdb
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\obj\Debug\net5.0\DIO.GameList.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\obj\Debug\net5.0\DIO.GameList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\obj\Debug\net5.0\DIO.GameList.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\obj\Debug\net5.0\DIO.GameList.AssemblyInfo.cs
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\obj\Debug\net5.0\DIO.GameList.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\obj\Debug\net5.0\DIO.GameList.dll
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\obj\Debug\net5.0\ref\DIO.GameList.dll
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\obj\Debug\net5.0\DIO.GameList.pdb
+D:\Desenvolvimento\Github\Projetos\DIO\DIO.GameList\obj\Debug\net5.0\DIO.GameList.genruntimeconfig.cache
